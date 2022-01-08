@@ -1,0 +1,286 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Nexos.Prueba.Core.API</name>
+    </assembly>
+    <members>
+        <member name="T:Nexos.Prueba.Core.API.BindingModel.AutoresDTO">
+            <summary>
+            Calase para el manejo de autores
+            </summary>
+        </member>
+        <member name="M:Nexos.Prueba.Core.API.BindingModel.AutoresDTO.#ctor">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="P:Nexos.Prueba.Core.API.BindingModel.AutoresDTO.Id">
+            <summary>
+            Id del autor
+            </summary>
+        </member>
+        <member name="P:Nexos.Prueba.Core.API.BindingModel.AutoresDTO.NombreCompleto">
+            <summary>
+            Nombre completo del autor
+            </summary>
+        </member>
+        <member name="P:Nexos.Prueba.Core.API.BindingModel.AutoresDTO.FechaNacimiento">
+            <summary>
+            Fecha de nacimiento
+            </summary>
+        </member>
+        <member name="P:Nexos.Prueba.Core.API.BindingModel.AutoresDTO.CiudadNacimiento">
+            <summary>
+            Ciudad de nacimiento
+            </summary>
+        </member>
+        <member name="P:Nexos.Prueba.Core.API.BindingModel.AutoresDTO.Email">
+            <summary>
+            Correo electronico
+            </summary>
+        </member>
+        <member name="P:Nexos.Prueba.Core.API.BindingModel.AutoresDTO.Libros">
+            <summary>
+            Libros del autor
+            </summary>
+        </member>
+        <member name="T:Nexos.Prueba.Core.API.BindingModel.EditorialesDTO">
+            <summary>
+            Clase para el manejo de editoriales
+            </summary>
+        </member>
+        <member name="M:Nexos.Prueba.Core.API.BindingModel.EditorialesDTO.#ctor">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="P:Nexos.Prueba.Core.API.BindingModel.EditorialesDTO.Id">
+            <summary>
+            Id de la editorial
+            </summary>
+        </member>
+        <member name="P:Nexos.Prueba.Core.API.BindingModel.EditorialesDTO.Nombre">
+            <summary>
+            Nombre de la editorial
+            </summary>
+        </member>
+        <member name="P:Nexos.Prueba.Core.API.BindingModel.EditorialesDTO.Direccion">
+            <summary>
+            Dirección de la editorial
+            </summary>
+        </member>
+        <member name="P:Nexos.Prueba.Core.API.BindingModel.EditorialesDTO.Telefono">
+            <summary>
+            Número telefonico
+            </summary>
+        </member>
+        <member name="P:Nexos.Prueba.Core.API.BindingModel.EditorialesDTO.Email">
+            <summary>
+            Correo electronico
+            </summary>
+        </member>
+        <member name="P:Nexos.Prueba.Core.API.BindingModel.EditorialesDTO.MaximoLibros">
+            <summary>
+            Número máximo de libros para regitrar
+            </summary>
+        </member>
+        <member name="P:Nexos.Prueba.Core.API.BindingModel.EditorialesDTO.Libros">
+            <summary>
+            Libros de la editorial
+            </summary>
+        </member>
+        <member name="T:Nexos.Prueba.Core.API.BindingModel.CorreoValidoAttribute">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Nexos.Prueba.Core.API.BindingModel.CorreoValidoAttribute.IsValid(System.Object)">
+            <summary>
+            
+            </summary>
+            <param name="value"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Nexos.Prueba.Core.API.BindingModel.FiltroLibroDTO">
+            <summary>
+            Clase para la realización de busquedas de libros
+            </summary>
+        </member>
+        <member name="P:Nexos.Prueba.Core.API.BindingModel.FiltroLibroDTO.Autor">
+            <summary>
+            Autor del libro
+            </summary>
+        </member>
+        <member name="P:Nexos.Prueba.Core.API.BindingModel.FiltroLibroDTO.Titulo">
+            <summary>
+            Título del libro
+            </summary>
+        </member>
+        <member name="P:Nexos.Prueba.Core.API.BindingModel.FiltroLibroDTO.Anio">
+            <summary>
+            Año de publicación del libro
+            </summary>
+        </member>
+        <member name="T:Nexos.Prueba.Core.API.BindingModel.LibrosDTO">
+            <summary>
+            Clase para el manejo de los libros
+            </summary>
+        </member>
+        <member name="P:Nexos.Prueba.Core.API.BindingModel.LibrosDTO.Id">
+            <summary>
+            Id del libro
+            </summary>
+        </member>
+        <member name="P:Nexos.Prueba.Core.API.BindingModel.LibrosDTO.Titulo">
+            <summary>
+            Titulo del libro
+            </summary>
+        </member>
+        <member name="P:Nexos.Prueba.Core.API.BindingModel.LibrosDTO.Anio">
+            <summary>
+            Año del libro
+            </summary>
+        </member>
+        <member name="P:Nexos.Prueba.Core.API.BindingModel.LibrosDTO.NumeroPaginas">
+            <summary>
+            Número de paginas del libro
+            </summary>
+        </member>
+        <member name="P:Nexos.Prueba.Core.API.BindingModel.LibrosDTO.IdEditorial">
+            <summary>
+            Id del la editorial
+            </summary>
+        </member>
+        <member name="P:Nexos.Prueba.Core.API.BindingModel.LibrosDTO.IdAutor">
+            <summary>
+            Id del autor
+            </summary>
+        </member>
+        <member name="P:Nexos.Prueba.Core.API.BindingModel.LibrosDTO.Autor">
+            <summary>
+            Autor del libro
+            </summary>
+        </member>
+        <member name="P:Nexos.Prueba.Core.API.BindingModel.LibrosDTO.Editorial">
+            <summary>
+            Editorial del libro
+            </summary>
+        </member>
+        <member name="T:Nexos.Prueba.Core.API.BindingModel.ValidateYearAttribute">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Nexos.Prueba.Core.API.BindingModel.ValidateYearAttribute.IsValid(System.Object)">
+            <summary>
+            
+            </summary>
+            <param name="value"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Nexos.Prueba.Core.API.Common.ValidatorEmail">
+            <summary>
+            Clase para validar correo
+            </summary>
+        </member>
+        <member name="M:Nexos.Prueba.Core.API.Common.ValidatorEmail.EmailIsValid(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="emailAddress"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Nexos.Prueba.Core.API.Controllers.AutorController">
+            <summary>
+            Cantrolador para el manejo de autores
+            </summary>
+        </member>
+        <member name="M:Nexos.Prueba.Core.API.Controllers.AutorController.#ctor(AutoMapper.IMapper,Nexos.Prueba.Domain.Core.Services.InterfaceService.IAutorService)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="mapper"></param>
+            <param name="autorService"></param>
+        </member>
+        <member name="M:Nexos.Prueba.Core.API.Controllers.AutorController.PostAutor(Nexos.Prueba.Core.API.BindingModel.AutoresDTO)">
+            <summary>
+            Crear autor
+            </summary>
+            <param name="autor"></param>
+            /// <response code="200">OK. Devuelve el objeto solicitado.</response> 
+            <response code="401">Unauthorized. No se ha indicado o es incorrecto el Token JWT de acceso.</response> 
+            <response code="404">NotFound. No se ha encontrado el objeto solicitado.</response>
+            <response code="500">InternalServerError. Error en el servidor.</response>
+            <returns></returns>
+        </member>
+        <member name="T:Nexos.Prueba.Core.API.Controllers.EditorialController">
+            <summary>
+            Controlador para el manejo de editoriales
+            </summary>
+        </member>
+        <member name="M:Nexos.Prueba.Core.API.Controllers.EditorialController.#ctor(AutoMapper.IMapper,Nexos.Prueba.Domain.Core.Services.InterfaceService.IEditorialService)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="mapper"></param>
+            <param name="editorialService"></param>
+        </member>
+        <member name="M:Nexos.Prueba.Core.API.Controllers.EditorialController.PostEditorial(Nexos.Prueba.Core.API.BindingModel.EditorialesDTO)">
+            <summary>
+            Crear editorial
+            </summary>
+            <param name="editorial"></param>
+            /// <response code="200">OK. Devuelve el objeto solicitado.</response> 
+            <response code="401">Unauthorized. No se ha indicado o es incorrecto el Token JWT de acceso.</response> 
+            <response code="404">NotFound. No se ha encontrado el objeto solicitado.</response>
+            <response code="500">InternalServerError. Error en el servidor.</response>
+            <returns></returns>
+        </member>
+        <member name="T:Nexos.Prueba.Core.API.Controllers.LibroController">
+            <summary>
+            Cantrolador para el manejo de libros
+            </summary>
+        </member>
+        <member name="M:Nexos.Prueba.Core.API.Controllers.LibroController.#ctor(AutoMapper.IMapper,Nexos.Prueba.Domain.Core.Services.InterfaceService.ILibroService,Nexos.Prueba.Domain.Core.Services.InterfaceService.IAutorService,Nexos.Prueba.Domain.Core.Services.InterfaceService.IEditorialService)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="mapper"></param>
+            <param name="libroService"></param>
+            <param name="autorService"></param>
+            <param name="editorialService"></param>
+        </member>
+        <member name="M:Nexos.Prueba.Core.API.Controllers.LibroController.PostAutor(Nexos.Prueba.Core.API.BindingModel.LibrosDTO)">
+            <summary>
+            Crear libro
+            </summary>
+            <param name="libro"></param>
+            /// <response code="200">OK. Devuelve el objeto solicitado.</response> 
+            <response code="401">Unauthorized. No se ha indicado o es incorrecto el Token JWT de acceso.</response> 
+            <response code="404">NotFound. No se ha encontrado el objeto solicitado.</response>
+            <response code="500">InternalServerError. Error en el servidor.</response>
+            <returns></returns>
+        </member>
+        <member name="M:Nexos.Prueba.Core.API.Controllers.LibroController.GetLibrosXFiltro(Nexos.Prueba.Core.API.BindingModel.FiltroLibroDTO)">
+            <summary>
+            Obtener libros por filtro
+            </summary>
+            <param name="filtro"></param>
+            /// <response code="200">OK. Devuelve el objeto solicitado.</response> 
+            <response code="401">Unauthorized. No se ha indicado o es incorrecto el Token JWT de acceso.</response> 
+            <response code="404">NotFound. No se ha encontrado el objeto solicitado.</response>
+            <response code="500">InternalServerError. Error en el servidor.</response>
+            <returns></returns>
+        </member>
+        <member name="T:Nexos.Prueba.Core.API.Mapping.MappingProfile">
+            <summary>
+            Provide a profile for mapping
+            </summary>
+        </member>
+        <member name="M:Nexos.Prueba.Core.API.Mapping.MappingProfile.#ctor">
+            <summary>
+            Create mappings
+            </summary>
+        </member>
+    </members>
+</doc>

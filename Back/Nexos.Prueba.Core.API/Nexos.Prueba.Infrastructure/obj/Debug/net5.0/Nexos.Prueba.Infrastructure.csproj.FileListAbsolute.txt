@@ -1,0 +1,15 @@
+C:\Users\rubiden.diazgranados\Documents\Documentos rubiden\Prueba Nexos\Back\Nexos.Prueba.Core.API\Nexos.Prueba.Infrastructure\bin\Debug\net5.0\Nexos.Prueba.Infrastructure.deps.json
+C:\Users\rubiden.diazgranados\Documents\Documentos rubiden\Prueba Nexos\Back\Nexos.Prueba.Core.API\Nexos.Prueba.Infrastructure\bin\Debug\net5.0\Nexos.Prueba.Infrastructure.dll
+C:\Users\rubiden.diazgranados\Documents\Documentos rubiden\Prueba Nexos\Back\Nexos.Prueba.Core.API\Nexos.Prueba.Infrastructure\bin\Debug\net5.0\ref\Nexos.Prueba.Infrastructure.dll
+C:\Users\rubiden.diazgranados\Documents\Documentos rubiden\Prueba Nexos\Back\Nexos.Prueba.Core.API\Nexos.Prueba.Infrastructure\bin\Debug\net5.0\Nexos.Prueba.Infrastructure.pdb
+C:\Users\rubiden.diazgranados\Documents\Documentos rubiden\Prueba Nexos\Back\Nexos.Prueba.Core.API\Nexos.Prueba.Infrastructure\bin\Debug\net5.0\Nexos.Prueba.Domain.Core.dll
+C:\Users\rubiden.diazgranados\Documents\Documentos rubiden\Prueba Nexos\Back\Nexos.Prueba.Core.API\Nexos.Prueba.Infrastructure\bin\Debug\net5.0\Nexos.Prueba.Domain.Core.pdb
+C:\Users\rubiden.diazgranados\Documents\Documentos rubiden\Prueba Nexos\Back\Nexos.Prueba.Core.API\Nexos.Prueba.Infrastructure\obj\Debug\net5.0\Nexos.Prueba.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\rubiden.diazgranados\Documents\Documentos rubiden\Prueba Nexos\Back\Nexos.Prueba.Core.API\Nexos.Prueba.Infrastructure\obj\Debug\net5.0\Nexos.Prueba.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rubiden.diazgranados\Documents\Documentos rubiden\Prueba Nexos\Back\Nexos.Prueba.Core.API\Nexos.Prueba.Infrastructure\obj\Debug\net5.0\Nexos.Prueba.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\rubiden.diazgranados\Documents\Documentos rubiden\Prueba Nexos\Back\Nexos.Prueba.Core.API\Nexos.Prueba.Infrastructure\obj\Debug\net5.0\Nexos.Prueba.Infrastructure.AssemblyInfo.cs
+C:\Users\rubiden.diazgranados\Documents\Documentos rubiden\Prueba Nexos\Back\Nexos.Prueba.Core.API\Nexos.Prueba.Infrastructure\obj\Debug\net5.0\Nexos.Prueba.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\rubiden.diazgranados\Documents\Documentos rubiden\Prueba Nexos\Back\Nexos.Prueba.Core.API\Nexos.Prueba.Infrastructure\obj\Debug\net5.0\Nexos.Prueba.Infrastructure.csproj.CopyComplete
+C:\Users\rubiden.diazgranados\Documents\Documentos rubiden\Prueba Nexos\Back\Nexos.Prueba.Core.API\Nexos.Prueba.Infrastructure\obj\Debug\net5.0\Nexos.Prueba.Infrastructure.dll
+C:\Users\rubiden.diazgranados\Documents\Documentos rubiden\Prueba Nexos\Back\Nexos.Prueba.Core.API\Nexos.Prueba.Infrastructure\obj\Debug\net5.0\ref\Nexos.Prueba.Infrastructure.dll
+C:\Users\rubiden.diazgranados\Documents\Documentos rubiden\Prueba Nexos\Back\Nexos.Prueba.Core.API\Nexos.Prueba.Infrastructure\obj\Debug\net5.0\Nexos.Prueba.Infrastructure.pdb

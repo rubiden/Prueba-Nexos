@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nexos.Prueba.Core.API", "Nexos.Prueba.Core.API\Nexos.Prueba.Core.API.csproj", "{B36AE089-3EE6-4896-8056-91602FAA4972}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aplication", "Aplication", "{C78FB93E-25FE-4AC9-B445-FE1828710831}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{8BE8EA34-B51C-442F-AF97-9547D6B65A9B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{D50E0947-9F6E-4C99-BC15-E61907616868}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nexos.Prueba.Infrastructure", "Nexos.Prueba.Infrastructure\Nexos.Prueba.Infrastructure.csproj", "{31F7E57D-5F48-42E1-8A22-84FD99FC473F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nexos.Prueba.Domain.Core", "Nexos.Prueba.Domain.Core\Nexos.Prueba.Domain.Core.csproj", "{FE2C5A94-3F4D-4B0C-9188-E9AEEACD6368}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B36AE089-3EE6-4896-8056-91602FAA4972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B36AE089-3EE6-4896-8056-91602FAA4972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B36AE089-3EE6-4896-8056-91602FAA4972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B36AE089-3EE6-4896-8056-91602FAA4972}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31F7E57D-5F48-42E1-8A22-84FD99FC473F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31F7E57D-5F48-42E1-8A22-84FD99FC473F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31F7E57D-5F48-42E1-8A22-84FD99FC473F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31F7E57D-5F48-42E1-8A22-84FD99FC473F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE2C5A94-3F4D-4B0C-9188-E9AEEACD6368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE2C5A94-3F4D-4B0C-9188-E9AEEACD6368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE2C5A94-3F4D-4B0C-9188-E9AEEACD6368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE2C5A94-3F4D-4B0C-9188-E9AEEACD6368}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B36AE089-3EE6-4896-8056-91602FAA4972} = {C78FB93E-25FE-4AC9-B445-FE1828710831}
+		{31F7E57D-5F48-42E1-8A22-84FD99FC473F} = {D50E0947-9F6E-4C99-BC15-E61907616868}
+		{FE2C5A94-3F4D-4B0C-9188-E9AEEACD6368} = {8BE8EA34-B51C-442F-AF97-9547D6B65A9B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16EF85EF-D049-4652-AD93-6C442A5C2644}
+	EndGlobalSection
+EndGlobal

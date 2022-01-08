@@ -1,0 +1,12 @@
+C:\Users\rubiden.diazgranados\Documents\Documentos rubiden\Prueba Nexos\Back\Nexos.Prueba.Core.API\Nexos.Prueba.Domain.Core\bin\Debug\net5.0\Nexos.Prueba.Domain.Core.deps.json
+C:\Users\rubiden.diazgranados\Documents\Documentos rubiden\Prueba Nexos\Back\Nexos.Prueba.Core.API\Nexos.Prueba.Domain.Core\bin\Debug\net5.0\Nexos.Prueba.Domain.Core.dll
+C:\Users\rubiden.diazgranados\Documents\Documentos rubiden\Prueba Nexos\Back\Nexos.Prueba.Core.API\Nexos.Prueba.Domain.Core\bin\Debug\net5.0\ref\Nexos.Prueba.Domain.Core.dll
+C:\Users\rubiden.diazgranados\Documents\Documentos rubiden\Prueba Nexos\Back\Nexos.Prueba.Core.API\Nexos.Prueba.Domain.Core\bin\Debug\net5.0\Nexos.Prueba.Domain.Core.pdb
+C:\Users\rubiden.diazgranados\Documents\Documentos rubiden\Prueba Nexos\Back\Nexos.Prueba.Core.API\Nexos.Prueba.Domain.Core\obj\Debug\net5.0\Nexos.Prueba.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rubiden.diazgranados\Documents\Documentos rubiden\Prueba Nexos\Back\Nexos.Prueba.Core.API\Nexos.Prueba.Domain.Core\obj\Debug\net5.0\Nexos.Prueba.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\rubiden.diazgranados\Documents\Documentos rubiden\Prueba Nexos\Back\Nexos.Prueba.Core.API\Nexos.Prueba.Domain.Core\obj\Debug\net5.0\Nexos.Prueba.Domain.Core.AssemblyInfo.cs
+C:\Users\rubiden.diazgranados\Documents\Documentos rubiden\Prueba Nexos\Back\Nexos.Prueba.Core.API\Nexos.Prueba.Domain.Core\obj\Debug\net5.0\Nexos.Prueba.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\rubiden.diazgranados\Documents\Documentos rubiden\Prueba Nexos\Back\Nexos.Prueba.Core.API\Nexos.Prueba.Domain.Core\obj\Debug\net5.0\Nexos.Prueba.Domain.Core.dll
+C:\Users\rubiden.diazgranados\Documents\Documentos rubiden\Prueba Nexos\Back\Nexos.Prueba.Core.API\Nexos.Prueba.Domain.Core\obj\Debug\net5.0\ref\Nexos.Prueba.Domain.Core.dll
+C:\Users\rubiden.diazgranados\Documents\Documentos rubiden\Prueba Nexos\Back\Nexos.Prueba.Core.API\Nexos.Prueba.Domain.Core\obj\Debug\net5.0\Nexos.Prueba.Domain.Core.pdb
+C:\Users\rubiden.diazgranados\Documents\Documentos rubiden\Prueba Nexos\Back\Nexos.Prueba.Core.API\Nexos.Prueba.Domain.Core\obj\Debug\net5.0\Nexos.Prueba.Domain.Core.csproj.AssemblyReference.cache
